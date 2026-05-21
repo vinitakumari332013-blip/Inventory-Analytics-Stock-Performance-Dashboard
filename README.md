@@ -7,6 +7,16 @@ By transforming raw inventory data into actionable insights, this tool helps pre
 
 ---
 
+<img width="1917" height="977" alt="Stock Performance Overview" src="https://github.com/user-attachments/assets/cf5b04ac-3f3d-45db-b08c-890df0c645cb" />
+
+
+
+
+
+<img width="1918" height="978" alt="Demand   Revenue Overview" src="https://github.com/user-attachments/assets/bb26d212-da9d-48de-a649-1c1932a43a2f" />
+
+
+
 ## ⚙️ Key Features & Analytical Techniques
 
 ✅ **Dynamic KPI Tracking**
